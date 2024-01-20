@@ -1,3 +1,1 @@
 # Statistical-Inference
-
-### Inferences
