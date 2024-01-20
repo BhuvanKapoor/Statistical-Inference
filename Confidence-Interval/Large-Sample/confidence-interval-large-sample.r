@@ -1,4 +1,4 @@
-# Confidence Interval for Large Sample (n>30)
+# Confidence Interval for Large Sample (N>30)
 
 # Confidence Interval for Proportions
 # Confidence Interval = [p +/- z*(sqrt(p(1-p)/n))]
